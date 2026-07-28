@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 220" width="760" height="220" font-family="'Poppins','Segoe UI',system-ui,sans-serif">
+  <rect x="0" y="0" width="760" height="220" fill="#FFFFFF"/>
+  <text x="20" y="20" font-size="14" fill="#9A9A9A">KenA.I. — Favicon style samples</text>
+
+  <!-- Option 1: orange bg, white K -->
+  <rect x="20" y="40" width="128" height="128" rx="28" fill="#F7941D"/>
+  <text x="84" y="104" font-size="86" font-weight="800" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">K</text>
+  <text x="84" y="190" font-size="12" fill="#6B6B6B" text-anchor="middle">1. Orange square</text>
+
+  <!-- Option 2: charcoal circle, orange K -->
+  <circle cx="268" cy="104" r="64" fill="#1A1A1A"/>
+  <text x="268" y="104" font-size="86" font-weight="800" fill="#F7941D" text-anchor="middle" dominant-baseline="central">K</text>
+  <text x="268" y="190" font-size="12" fill="#6B6B6B" text-anchor="middle">2. Dark circle</text>
+
+  <!-- Option 3: white bg, orange K, no shape -->
+  <rect x="404" y="40" width="128" height="128" rx="28" fill="#FFFFFF" stroke="#EEEEEE" stroke-width="2"/>
+  <text x="468" y="104" font-size="86" font-weight="800" fill="#F7941D" text-anchor="middle" dominant-baseline="central">K</text>
+  <text x="468" y="190" font-size="12" fill="#6B6B6B" text-anchor="middle">3. Minimal, orange only</text>
+
+  <!-- Option 4: cream bg, charcoal K, orange spark dot -->
+  <rect x="588" y="40" width="128" height="128" rx="28" fill="#FFF8EF" stroke="#F7941D" stroke-width="3"/>
+  <text x="652" y="104" font-size="86" font-weight="800" fill="#1A1A1A" text-anchor="middle" dominant-baseline="central">K</text>
+  <circle cx="695" cy="60" r="9" fill="#F7941D"/>
+  <text x="652" y="190" font-size="12" fill="#6B6B6B" text-anchor="middle">4. Cream + spark accent</text>
+</svg>
